@@ -8,7 +8,8 @@ export default function WelcomePage() {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border: 1.2px solid black;
+  border: 4px white;
+  
   `;
 
   return (
